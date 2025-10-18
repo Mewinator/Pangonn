@@ -67,11 +67,11 @@ Want to add your own game or improve the site?
 
 ## 📜 License
 
-This project is licensed under the **MIT License** 📄
+This project is licensed under the **Apache License 2.0** 📄
 
 ---
 
 ### 💡 Stay tuned — big things coming soon!
 
 Play hard, have fun and Rebell against the all seeing daemen blocksi🎮🔥
-- sincerly, palmtree890
+- sincerly, palmtree890 & Mewinator
