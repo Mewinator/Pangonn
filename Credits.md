@@ -1,6 +1,6 @@
 # 🌟 Credits
 
-Big thanks to the amazing contributors who made **GameHub** possible! 🎮✨
+Big thanks to the amazing contributors who made **Pangonn** possible! 🎮✨
 
 ---
 
@@ -21,4 +21,4 @@ Thanks to the open-source community 💻 and everyone who supports indie web pro
 
 ### 🚀 Keep Playing, Keep Building!
 
-GameHub is powered by **you** — our awesome players and contributors! 🕹️🔥
+Pangonn is powered by **you** — our awesome players and contributors! 🕹️🔥
