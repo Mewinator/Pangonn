@@ -11,9 +11,10 @@ This project is all about creating a **game-packed website** where you can play 
 
 ## 🚧 Project Status
 
-✅ Basic site is live on **GitHub Pages**
+✅ Basic site is *in development* on **GitHub Pages**
 🎲 Games are being added (lots more coming soon!)
 ☁️ Web access via **Linode** planned for the future 🌐
+🧅TOR network routing planned for future updates🧅
 
 ---
 
@@ -22,7 +23,7 @@ This project is all about creating a **game-packed website** where you can play 
 * 🖥️ **Play games instantly** on GitHub Pages
 * 🎮 A growing library of **casual, arcade, and puzzle** games
 * ⚡ Fast + lightweight design for smooth gameplay
-* 🔒 Future hosting expansion with **Linode Cloud**
+* 🔒 Future access expansion with **Linode Cloud**
 
 ---
 
@@ -43,10 +44,16 @@ This project is all about creating a **game-packed website** where you can play 
 Or run locally:
 
 ```bash
-still in development
+git clone https://github.com/Mewinator/Pangonn/
 ```
 
-Then open your browser at 👉 **[http://localhost:3000](http://localhost:3000)**
+then start a python server with:
+
+```
+python -m http.server 8000
+```
+
+Then open your browser at 👉 **[http://localhost:3000](http://localhost:8000)**
 
 ---
 
