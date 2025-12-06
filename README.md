@@ -29,6 +29,7 @@ This project is all about creating a **game-packed website** where you can play 
 
 ## 📅 Roadmap
 
+* [x] add customization
 * [ ] Add more game categories 🎯
 * [ ] User profiles + save progress 💾
 * [ ] Multiplayer support 👫
