@@ -48,8 +48,7 @@ Or run locally:
 git clone https://github.com/Mewinator/Pangonn/
 ```
 
-then start a python server with:
-(must have python 3 and up installed to run on local python server
+then start a python server with:  (must have python 3 and up installed to run on local python server)
 
 ```
 python -m http.server 8000
