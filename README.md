@@ -54,7 +54,7 @@ then start a python server with:  (must have python 3 and up installed to run on
 python -m http.server 8000
 ```
 
-Then open your browser at 👉 **[http://localhost:3000](http://localhost:8000)**
+Then open your browser at 👉 **[http://localhost:8000](http://localhost:8000)**
 
 ---
 
